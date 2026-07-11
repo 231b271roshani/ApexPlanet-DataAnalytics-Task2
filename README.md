@@ -1,6 +1,6 @@
  ApexPlanet Data Analytics Internship - Task 2
 
-📌 Project Overview
+📌 Project Overview:
 This project is part of the ApexPlanet Data Analytics Internship (Task 2). The objective is to analyze a sales dataset using SQL and build an interactive Power BI dashboard to uncover business insights and visualize sales performance.
 
  🎯 Objectives
@@ -53,4 +53,3 @@ B.Tech CSE | Jaypee University of Engineering and Technology, Guna
 GitHub: https://github.com/231b271roshani
 
 
-GitHub: https://github.com/231b271roshani
